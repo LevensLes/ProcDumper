@@ -69,5 +69,15 @@ namespace Process_Dumper.Properties {
                 return ((byte[])(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] s3 {
+            get {
+                object obj = ResourceManager.GetObject("s3", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }
