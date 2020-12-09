@@ -1,2 +1,5 @@
 # Information
-This is a pretty basic process dumper but it efficiantly dumps all running processes along with sorting svchost services by name making it easier to determine what you're looking for.
+Forked from https://github.com/thatnword/ProcDumper but did basic optimization and now its fast. Also added strings3 support.
+
+# known issue
+sometimes when switching modes it fucks up and idk why u can fix this by deleted the dumps folder
